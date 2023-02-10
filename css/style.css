@@ -1,3 +1,11 @@
+:root{
+	--darkblue: #0D1317;
+	--blue: #232ED1;
+  --brightblue: #232ED1; 
+  --lilac: #6564DB;
+  --celeste: #89D2DC; 
+}
+
 body {
   padding: 0px;
   margin: 0px;
