@@ -28,6 +28,7 @@ body {
   width: 100vw;
   height: calc(100vh - 203px);
   z-index: 80;
+  color: #6564DB;
 }
 
 #contents {
@@ -52,7 +53,7 @@ body {
 }
 
 #title {
-  color: var(--darkblue);
+  color: #0D1317;
   position: absolute;
   left: 0;
   top: 203px;
@@ -64,6 +65,7 @@ body {
   visibility: hidden;
   font-weight: bold;
   text-align: center;
+  
 }
 
 .chapter-container {
@@ -72,7 +74,7 @@ body {
   margin: 50px 0 0 0;
   padding: 20px 0 0 0;
   text-align: center;
-  color: var(--lilac);
+  color:#6564DB;
 }
 
 .chapter-container img {
