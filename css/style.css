@@ -8,7 +8,7 @@
 
 body {
   padding: 30px;
-  margin: 15px;
+  margin: 0px;
   font-family: "Roboto", sans-serif;
   overflow: hidden;
 }
@@ -41,7 +41,7 @@ body {
 }
 
 #top {
-  height: 60px;
+  height: 40px;
   margin: 0;
 }
 
