@@ -43,7 +43,8 @@ body {
 
 #top {
   height: 40px;
-  top-margin: 10;
+  top-margin: 10px;
+  padding: 5px; 
   margin: 0;
 }
 
